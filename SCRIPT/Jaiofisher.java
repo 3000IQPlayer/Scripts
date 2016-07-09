@@ -1,4 +1,4 @@
-
+// OLD SCRIPT AND PRETTY BAD CODE WARNING, Still worked great though ;) just looks akward 
 
 import org.parabot.environment.scripts.Category;
 import org.parabot.environment.scripts.ScriptManifest;
